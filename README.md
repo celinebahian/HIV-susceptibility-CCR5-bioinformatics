@@ -6,7 +6,7 @@
 # Activity Purpose
 The purpose of this activity is to learn how to use the UCSC Genome Browser and NCBI ClinVar to study the CCR5 gene. It also helps identify the gene’s location, understand its structure, and examine a genetic variant related to HIV susceptibility.
 
-# 1. Assigned Gene and Disease
+# Part A. Assigned Gene and Disease
 CCR5- HIV-susceptibility
 
 # PART B. Locate Your Gene in the UCSC Genome Browser
