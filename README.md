@@ -9,7 +9,7 @@ The purpose of this activity is to learn how to use the UCSC Genome Browser and 
 # Part A. Assigned Gene and Disease
 CCR5- HIV-susceptibility
 
-# PART B. Locate Your Gene in the UCSC Genome Browser
+# PART B. UCSC Gene Location
 | Information | Result |
 |---|---|
 | **Official gene symbol** | CCR5 |
@@ -23,7 +23,7 @@ CCR5- HIV-susceptibility
 
 **Figure 1.** UCSC Genome Browser showing the location of the CCR5 gene on chromosome 3 in the GRCh38/hg38 assembly.
 
-# PART C. Understand the Gene Structure: Exons, Introns, and Transcripts
+# PART C. Exons, Introns, and Transcripts
 **a. Number of exons you can identify in your selected transcript**
 
 3 exons in the selected transcript NM_001394783.1, two short exons on the left and one much larger exon on the right..
@@ -44,7 +44,7 @@ The introns generally appear longer than the exons in the CCR5 gene. In the brow
 
 **Figure 2.** Gene structure of the human CCR5 gene in the UCSC Genome Browser (GRCh38/hg38), showing the GENCODE and RefSeq transcript models, including the exons, introns, and multiple transcript isoforms.
 
-# PART D. Turn On and Examine Genome Browser Tracks
+# PART D. UCSC Annotation Tracks
 **a. Which gene annotation track did you use?**
 
 I used the GENCODE v50 and NCBI RefSeq Curated tracks to view the CCR5 gene and its transcripts. 
@@ -69,7 +69,7 @@ Strong conservation means that a DNA region has stayed similar in many different
 
 **Figure 3.** UCSC Genome Browser view of the human CCR5 gene (GRCh38/hg38) showing the ClinVar variant track, GENCODE and RefSeq gene annotations, GTEx gene expression, and the conservation track. The ClinVar markers indicate the genomic positions of reported genetic variants within and near the CCR5 gene.
 
-# PART E. Select One Variant in NCBI ClinVar
+# PART E. Selected ClinVar Variant
 | **Field** | **Information** |
 |---|---|
 | **a. Gene** | CCR5 |
@@ -85,7 +85,7 @@ Strong conservation means that a DNA region has stayed similar in many different
 
 **Figure 4.** ClinVar record of the selected CCR5 variant (Variation ID: 8184), showing its HGVS description, genomic location in GRCh38, Benign clinical significance, and expert panel review status.
 
-# PART F. Find Your Selected Variant Back in UCSC
+# PART F. Locating the Variant in UCSC
 **a. Where is the variant located relative to your gene?**
 
 The variant is located within the CCR5 gene on chromosome 3.
@@ -131,7 +131,7 @@ A variant’s location alone cannot prove that it causes disease. Functional stu
 
 The most interesting feature was that CCR5 has multiple transcript isoforms but shares a common coding region. I also found it interesting that the selected variant is located in an exon, where it can directly affect the protein sequence.
 
-# References
+# References and Links
 UCSC Genome Browser. (2026). CCR5 genome browser view (GRCh38/hg38).
 University of California, Santa Cruz.
 https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&position=chr3%3A46370946-46376206
