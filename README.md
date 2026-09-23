@@ -18,6 +18,7 @@ CCR5- HIV-susceptibility
 | **DNA strand** | - |
 | **Approximate gene size** | 5,261 bp |
 <img width="1319" height="591" alt="image" src="https://github.com/user-attachments/assets/b4370aae-5c2e-4027-9153-e26f9cf0908c" />
+
 **Figure 1.** UCSC Genome Browser showing the location of the CCR5 gene on chromosome 3 in the GRCh38/hg38 assembly.
 
 # PART C. Understand the Gene Structure: Exons, Introns, and Transcripts
@@ -34,6 +35,7 @@ Exons are the parts of a gene that stay in the mature mRNA and contain the infor
 The introns generally appear longer than the exons in the CCR5 gene. In the browser view, the gaps between the exon blocks are noticeably larger than the exon rectangles, especially the intron separating the second and third exons.
 
 <img width="959" height="255" alt="image" src="https://github.com/user-attachments/assets/7955a5ca-4b4f-4869-bb3d-2c7dbdb4dc02" />
+
 **Figure 2.** Gene structure of the human CCR5 gene in the UCSC Genome Browser (GRCh38/hg38), showing the GENCODE and RefSeq transcript models, including the exons, introns, and multiple transcript isoforms.
 
 # PART D. Turn On and Examine Genome Browser Tracks
@@ -54,6 +56,7 @@ The conserved regions were mainly found in the exons, while most introns showed 
 Strong conservation means that a DNA region has stayed similar in many different species over time. This suggests that the region is important because changes in it may affect the gene’s normal function.
 
 <img width="508" height="618" alt="image" src="https://github.com/user-attachments/assets/74db7262-8811-4a77-9dfd-aca05f862bfb" />
+
 **Figure 3.** UCSC Genome Browser view of the human CCR5 gene (GRCh38/hg38) showing the ClinVar variant track, GENCODE and RefSeq gene annotations, GTEx gene expression, and the conservation track. The ClinVar markers indicate the genomic positions of reported genetic variants within and near the CCR5 gene.
 
 # PART E. Select One Variant in NCBI ClinVar
@@ -69,6 +72,7 @@ Strong conservation means that a DNA region has stayed similar in many different
 | **h. ClinVar record URL** | https://www.ncbi.nlm.nih.gov/clinvar/variation/8184/ |
 
 <img width="645" height="559" alt="image" src="https://github.com/user-attachments/assets/bd3b7652-7da9-4ed0-bcfa-9949d3dbaf57" />
+
 **Figure 4.** ClinVar record of the selected CCR5 variant (Variation ID: 8184), showing its HGVS description, genomic location in GRCh38, Benign clinical significance, and expert panel review status.
 
 # PART F. Find Your Selected Variant Back in UCSC
@@ -88,6 +92,7 @@ The variant is a 32-base pair deletion that causes a frameshift. This may change
 More evidence is needed, such as functional studies, clinical data, and results from multiple patients to confirm its effect.
 
 <img width="1353" height="459" alt="image" src="https://github.com/user-attachments/assets/5778f09a-9239-46d0-b490-2648e9479900" />
+
 **Figure 5.** UCSC Genome Browser view of the selected CCR5 ClinVar variant (Variation ID: 8184) in GRCh38 (hg38). The variant is shown within the coding exon of the CCR5 gene together with the GENCODE and RefSeq gene models.
 
 # Interpretation
